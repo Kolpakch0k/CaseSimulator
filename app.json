@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Naruto Case Simulator",
+    "slug": "cs2-naruto-case-simulator",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.yourname.narutocasesim",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourname.narutocasesim"
+    }
+  }
+}
